@@ -1,0 +1,14 @@
+<title>Contact Us</title>
+    <body>
+        <h1>Contact Us</h1>
+        <br />
+        <form action="Page 3.html" type="Post">
+            First Name: <input type="text" id="fName"><br>
+            Last Name: <input type="text" id="lName"><br>
+            <link rel="stylesheet" href="bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.css">
+            <button class="btn btn-primary">Submit</button>
+        </form>
+
+    <p><a href="webpage.html" target="_new">Page 1</a></p>
+    <p><a href="Page 2.html" target="_new">Page 3</a></p>
+    </body>
