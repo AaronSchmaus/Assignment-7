@@ -1,0 +1,22 @@
+
+body{
+    font-size: x-large; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(2, 1, 1)
+}
+
+#myid{
+    font-style: italic;
+    color: tomato;
+    font-size: 70px;
+
+}
+
+.box{
+    background-image: url(Images/IMG_0105.jpeg);
+    background-size: cover;
+    
+    padding: 10px;
+    margin: 10px;
+}
